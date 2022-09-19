@@ -1,0 +1,37 @@
+https://www.reddit.com/r/replit/comments/wiftpa/embedding_on_wix/
+script: 
+start character 
+presented with stalking/harrasing 
+
+resources 
+https://www.justice.gc.ca/eng/rp-pr/cj-jp/fv-vf/stalk-harc/har.html 
+https://www.safewise.com/blog/what-to-do-if-you-think-youre-being-followed/
+
+man is following: 
+chat: "a strange man you don't know is following you.." 
+
+do you: 
+  keep walking the same way 
+    "you never know if the person following you is just going the same direction so try to change your route and see if they're actually following you." 
+  change directions you never know if the person following you is just going the same direction so try to change your route and see if they're actually following you."
+
+turns out he is following you!
+do you: 
+ignore him: 
+"most perpetrators use the element of surprise so make sure to recognize their face and to make eye contact with them. At that point, they'll know you're suspicious of them and ready to react to whatever future actions they'll take" 
+
+turn around and make eye contact with them: 
+"good choice! most perpetrators use the element of surprise so make sure to recognize their face and to make eye contact with them. At that point, they'll know you're suspicious of them and ready to react to whatever future actions they'll take" 
+
+
+looks like you're not losing them and you start walking a bit faster and they do the same. do you: 
+
+
+call 911 or ask a stranger for help:
+"good choice! as soon as you feel threatened, make sure to call 911 or an emergency contact that you can rely on. Make sure to send your location to that contact so they can locate you if something happens!"
+
+think to yourself you're overreacting: 
+"it's better to be safe than sorry! make sure to call 911 or an emergency contact as soon as you feel threatened. Make sure to send your location to that contact so they can locate you if something happens!"
+
+mention sekura the app 
+and more tips if they end up making moves 
